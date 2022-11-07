@@ -1,1 +1,0 @@
-![](../../../AppData/Local/Temp/Rar$DRa19112.21394/h1.png)

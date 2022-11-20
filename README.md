@@ -1,6 +1,6 @@
 # HomeWork
 
-<h3> 001_Modul 1 - Intput </h3>
+<h3> 001_Introduction to Python </h3>
 
 - First file
 
@@ -40,7 +40,7 @@
     
 --------------------------------------
 
-<h3> 002_Modul - Loop, Branching </h3>
+<h3> 002_Branching operators, cycles </h3>
 
 - First file
 
@@ -149,7 +149,7 @@
 
 --------------------------------------
 
-<h3> 003_Modul - Strings, lists </h3>
+<h3> 003._Lines and list </h3>
 
 - First file
 
@@ -201,7 +201,7 @@
 
 --------------------------------------
 
-<h3> 004_Modul - Sort and search </h3>
+<h3> 004_Sort </h3>
 
 - First file
 
@@ -246,7 +246,7 @@
 
 --------------------------------------
 
-<h3> 005_Modul - Tuples, dictionaries and sets </h3>
+<h3> 005_Tuples, multiples, dictionaries </h3>
 
 - First file
 
@@ -295,7 +295,7 @@
 
 --------------------------------------
 
-<h3> 006_Modul - Function </h3>
+<h3> 006_Functions and modules </h3>
 
 - First file
 
@@ -396,7 +396,7 @@
  
 --------------------------------------
 
-<h3> 007_Modul - Exceptions </h3>
+<h3> 007_Exceptions </h3>
 
 - First file
 
@@ -415,7 +415,7 @@
 
 --------------------------------------
 
-<h3> 008_Modul - File </h3>
+<h3> 008.Files </h3>
 
 - First file
 
@@ -484,7 +484,7 @@
 
 --------------------------------------
 
-<h3> 010_Modul - OOP </h3>
+<h3> 010_OOP </h3>
 
 - First file
 
@@ -544,7 +544,7 @@
 
 --------------------------------------
 
-<h3> 012_Modul - Data structures </h3>
+<h3> 011_Database </h3>
 
 - First file
 
@@ -565,7 +565,7 @@
 
 --------------------------------------
 
-<h3> 013_Modul Base - Work with BD! </h3>
+<h3> 012_Data structure </h3>
 
 - lesson2.sql file
 
@@ -766,7 +766,7 @@
 
 --------------------------------------
 
-<h3> 014_Modul Bot_telegram - create bot! </h3>
+<h3> 013_TelegramBot </h3>
 
 - First file
     

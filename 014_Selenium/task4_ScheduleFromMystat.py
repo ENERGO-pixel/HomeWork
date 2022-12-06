@@ -13,9 +13,9 @@ try:
          if i.text:
              print(i.text)
      login = driver.find_element(By.CSS_SELECTOR, '#username')
-     login.send_keys("Sara_0dbw")
+     login.send_keys("your login")
      password = driver.find_element(By.CSS_SELECTOR, '#password')
-     password.send_keys("DEath2206")
+     password.send_keys("your password")
      button = driver.find_element(By.CLASS_NAME,'login-action')
      button.click()
      time.sleep(5)
